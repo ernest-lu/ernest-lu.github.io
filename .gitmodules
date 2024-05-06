@@ -1,0 +1,9 @@
+[submodule "themes/whiteplain"]
+	path = themes/whiteplain
+	url = https://github.com/taikii/whiteplain.git
+[submodule "themes/themes/anubis2"]
+	path = themes/themes/anubis2
+	url = https://github.com/Junyi-99/hugo-theme-anubis2.git
+[submodule "themes/anubis2"]
+	path = themes/anubis2
+	url = https://github.com/Junyi-99/hugo-theme-anubis2.git

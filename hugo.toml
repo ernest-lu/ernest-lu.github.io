@@ -1,0 +1,16 @@
+baseURL = 'https://ernest-lu.github.io/'
+languageCode = 'en-us'
+title = 'Ernest Lu'
+theme = 'anubis2'
+
+
+[params]
+social = [
+    { id="codeforces", name="badint"},
+    { id="github", name="ernest-lu" },
+]
+disableSummary = true
+rssIcon = false
+
+[markup.goldmark.renderer]
+unsafe = true
