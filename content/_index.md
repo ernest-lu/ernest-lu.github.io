@@ -1,11 +1,3 @@
-awoogoaogaogagaogaogagoagoag
-sgagoagsog
-ag
-agoagoag
-a
-ga
-gaog
-aogao
-go
+hi
 
 <!-- [coursework]({{< ref "/coursework" >}} "Coursework") -->

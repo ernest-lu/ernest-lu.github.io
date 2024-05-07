@@ -4,7 +4,9 @@ date: 2024-01-29
 math: true
 
 ---
-There are other resources on this technique, but I'm writing this to understand an application to a specific problem I found where the intended solution is much simpler and doesn't require Alien's Trick.
+As a brief foreword, I think that associating scary names with ideas/techniques such as some of the ones I try to understand here and in later blogs can be a dangerous thing to do. Starting with just the name over the ideas behind the name could turn away potential self-discovery someone could make about these ideas. However, the name itself is probably a necessary thing needed to be concise.
+
+There are other resources on this technique, but I'm writing this to understand an application to a specific problem I found where the intended solution is much simpler and doesn't require this. 
 
 A common model in competitive programming is a "$k$-condition", where exactly or at most "$k$" things may be used. For example, the following [problem](https://cses.fi/problemset/task/2426/) has a pool of $n$ people, where exactly $k$ people must be designated as artists, and $j$ people must be designated as programmers. ($n \leq 10^{5}$, $k \geq 1$, $j \geq 1$, $k + j \leq n$). Each person has a programming and artistic skill ($1 \leq x_{i}, y_{i} \leq 10^{9}$), and we want to maximize the total sum of skills of the people designated to corresponding roles. A person can only be designated to at most one role. In this case, the "$k$-condition" can be either $k$ (the number of artists), $j$ (the number of programmers), or both.
 
@@ -85,7 +87,7 @@ int main() {
 ```
 Note that the code only did an integer binary search, as opposed to binary searching over real numbers. The proof of how the slope can be contained within the integers can be found in one of the codeforces blogs.
 
-This can be interpreted as an application of using Lagrange multipliers. Our function without the k constraint is easy to solve, and so we add a lagrange multiplier $\lambda k$ to account for this constraint. Our Lagrangian function (with this Lagrange multiplier added) is still convex, so we can find the optimal values quickly and binary search for the point where the constraint parameter $\lambda$ gives us the $k$ value that we want.
+This can be interpreted as an application of using Lagrange multipliers. Our function without the k constraint is easy to solve, and so we add a Lagrange multiplier $\lambda k$ to account for this constraint. Our Lagrangian function (with this Lagrange multiplier added) is still convex, so we can find the optimal values quickly and binary search for the point where the constraint parameter $\lambda$ gives us the $k$ value that we want.
 
 Good problems for this technique:  
 - https://atcoder.jp/contests/abc218/tasks/abc218_h
