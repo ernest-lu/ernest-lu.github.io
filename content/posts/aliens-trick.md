@@ -87,7 +87,7 @@ int main() {
 ```
 Note that the code only did an integer binary search, as opposed to binary searching over real numbers. The proof of how the slope can be contained within the integers can be found in one of the codeforces blogs.
 
-This can be interpreted as an application of using Lagrange multipliers. Our function without the k constraint is easy to solve, and so we add a Lagrange multiplier $\lambda k$ to account for this constraint. Our Lagrangian function (with this Lagrange multiplier added) is still convex, so we can find the optimal values quickly and binary search for the point where the constraint parameter $\lambda$ gives us the $k$ value that we want.
+This can be interpreted as an application of using Lagrange multipliers. Our function without the k constraint is easy to solve, and so we add a Lagrange multiplier $\lambda k$ to account for this constraint. Our Lagrangian function (with this Lagrange multiplier added) is still concave, so we can find the optimal values quickly and binary search for the point where the constraint parameter $\lambda$ gives us the $k$ value that we want.
 
 Good problems for this technique:  
 - https://atcoder.jp/contests/abc218/tasks/abc218_h
