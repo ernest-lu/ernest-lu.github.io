@@ -4,8 +4,6 @@ date: 2024-01-29
 math: true
 
 ---
-As a brief foreword, I think that associating scary names with ideas/techniques such as some of the ones I try to understand here and in later blogs can be a dangerous thing to do. Starting with just the name over the ideas behind the name could turn away potential self-discovery someone could make about these ideas. However, the name itself is probably a necessary thing needed to be concise.
-
 There are other resources on this technique, but I'm writing this to understand an application to a specific problem I found where the intended solution is much simpler and doesn't require this. 
 
 A common model in competitive programming is a "$k$-condition", where exactly or at most "$k$" things may be used. For example, the following [problem](https://cses.fi/problemset/task/2426/) has a pool of $n$ people, where exactly $k$ people must be designated as artists, and $j$ people must be designated as programmers. ($n \leq 10^{5}$, $k \geq 1$, $j \geq 1$, $k + j \leq n$). Each person has a programming and artistic skill ($1 \leq x_{i}, y_{i} \leq 10^{9}$), and we want to maximize the total sum of skills of the people designated to corresponding roles. A person can only be designated to at most one role. In this case, the "$k$-condition" can be either $k$ (the number of artists), $j$ (the number of programmers), or both.

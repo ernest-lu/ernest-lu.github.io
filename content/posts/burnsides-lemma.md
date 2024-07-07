@@ -7,7 +7,6 @@ math: true
 
 DRAFT
 
-Writing this as semi-review for Math 113 final, even though this was only touched briefly. Has applications to competitive programming problems too. When I first encountered this idea, it seemed like I was applying some black magic formula to get a count for things. I felt like I was taking in unrelated quantities and outputting out something that could get my answer.
 
 <!-- As a small intro to the power of using this lemma, consider the problem of counting how many ways there are to arrange $1..n$ on a circle, where rotations of the circle are considered the same. I.E for $n = 3$: in clockwise order $123$, $312$ are considered the same -->
 
