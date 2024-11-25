@@ -21,4 +21,3 @@ I feel like this is the whole essence of developing intuition for something. Usi
 
 So, in the future, I hope to gain a better understanding of things and try to really understand something, and be more secure in what I know. Towards this goal, I'd like to try to simplify my problems as much as I can, which involves using clear language and simpler concepts.
 
-* Maybe another post on what success means 
