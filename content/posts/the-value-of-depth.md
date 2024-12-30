@@ -5,11 +5,7 @@ math: true
 
 ---
 
-Honestly, it takes me a while to try to understand my blog posts again. I have to trace the steps I took to get to same understanding on the problems I had in the moment.
-
-I think really wanted to go deep into one specific niche topic, but without repeated application and excercise of such a topic, I was not as engaged in the material. 
-
-I personally attribute a lot of results in my life to an obsession with going deeper in a topic, where I want to really understand something. 
+Honestly, it takes me a while to try to understand my blog posts again. I have to trace the steps I took to get to same understanding on the problems I had in the moment. I think really wanted to go deep into one specific niche topic, but without repeated application and excercise of such a topic, I was not as engaged in the material. I personally attribute a lot of results in my life to an obsession with going deeper in a topic, where I want to really understand something. 
 
 But going deeper doesn't necessarily mean trying something niche. In a sense, that's more of a "breadth" idea, since I am learning something new. 
 
