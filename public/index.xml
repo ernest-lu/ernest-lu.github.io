@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ernest Lu</title>
+    <link>https://ernest-lu.github.io/</link>
+    <description>Recent content on Ernest Lu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 30 Aug 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://ernest-lu.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Depth and Understanding</title>
+      <link>https://ernest-lu.github.io/posts/the-value-of-depth/</link>
+      <pubDate>Fri, 30 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://ernest-lu.github.io/posts/the-value-of-depth/</guid>
+      <description>Honestly, it takes me a while to try to understand my blog posts again. I have to trace the steps I took to get to same understanding on the problems I had in the moment.&#xA;I think really wanted to go deep into one specific niche topic, but without repeated application and excercise of such a topic, I was not as engaged in the material.&#xA;I personally attribute a lot of &amp;ldquo;success&amp;rdquo;* and &amp;ldquo;results&amp;rdquo; in my life to an obsession with going deeper in a topic, where I want to really understand something.</description>
+    </item>
+    <item>
+      <title>Aliens Trick</title>
+      <link>https://ernest-lu.github.io/posts/aliens-trick/</link>
+      <pubDate>Mon, 29 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://ernest-lu.github.io/posts/aliens-trick/</guid>
+      <description>There are other resources on this technique, but I&amp;rsquo;m writing this to understand an application to a specific problem I found where the intended solution is much simpler and doesn&amp;rsquo;t require this.&#xA;A common model in competitive programming is a &amp;ldquo;$k$-condition&amp;rdquo;, where exactly or at most &amp;ldquo;$k$&amp;rdquo; things may be used. For example, the following problem has a pool of $n$ people, where exactly $k$ people must be designated as artists, and $j$ people must be designated as programmers.</description>
+    </item>
+    <item>
+      <title>Coursework</title>
+      <link>https://ernest-lu.github.io/coursework/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ernest-lu.github.io/coursework/</guid>
+      <description>hi me chill</description>
+    </item>
+  </channel>
+</rss>
