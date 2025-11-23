@@ -8,6 +8,7 @@ theme = 'anubis2'
 social = [
     { id="codeforces", name="badint"},
     { id="github", name="ernest-lu" },
+    { id="youtube", name="badint" },
 ]
 disableSummary = true
 rssIcon = false
