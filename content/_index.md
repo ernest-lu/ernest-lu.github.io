@@ -1,3 +1,10 @@
 hi
 
-<!-- [coursework]({{< ref "/coursework" >}} "Coursework") -->
+recommendations:
+
+<details>
+<summary>
+Games
+</summary>
+- Rimworld
+</details>
