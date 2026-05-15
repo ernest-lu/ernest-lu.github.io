@@ -1,10 +1,13 @@
-hi
+hello
 
-recommendations:
+favorites:
 
 <details>
 <summary>
 Games
 </summary>
+- Mount and Blade: Warband 
+- Valheim
 - Rimworld
+
 </details>
