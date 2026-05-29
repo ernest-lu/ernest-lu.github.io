@@ -14,5 +14,5 @@ I've decided my purpose in this life is just to survive and be happy. I'll gain 
 
 Maybe the goal is self-expression — producing your own art, your own masterpiece. An expression of whatever you've built in your brain. My friends are sad that LLMs are better than them at everything, and honestly I don't think the race between OpenAI and Anthropic and the big labs is healthy or productive. Knowledge should be shared. I claim that the true driver of innovation was never competition — it was pure curiosity. We ask questions, learn things, reach the frontier and push it further. I dream of a less secretive, more open world where you can ask anyone anything and get knowledge freely. The internet is already almost structured like this. Maybe we just model real life the same way. Life is not a competition.
 
-![loki](/content/img/loki.jpeg)
-![bb](/content/img/bb.png)
+![loki](../../content/img/loki.jpeg)
+![bb](../../content/img/bb.png)
