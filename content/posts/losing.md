@@ -6,7 +6,7 @@ math: true
 
 I've been playing a lot of ping pong recently, and uncles outright refuse to play or teach me unless I'm at a certain skill level. I wonder why we structure life so competitively. I think competition is the source of all my emotional pain. I grew up going to math competitions, competing for good grades, competing in Fortnite battle royales to get the attention of girls. Watching my NBA dreams get crushed because I didn't choose giant in character selection when I spawned into this life.
 
-Maybe I was raised in an environment where everyone I talked to was obsessed with strengths and ratings. For my own happiness, and the happiness of others, I want to believe that true strength is kind.
+Maybe I was raised in an environment where everyone I talked to was obsessed with strengths, ratings, who's the goat and who's the strongest. For my own happiness, and the happiness of others, I want to believe that true strength is kind.
 
 The older people justify it by saying that resources in this life are limited. Only so many spots in this school, only so many people can get the job. I want to challenge that. All knowledge is on the internet. I learned everything I know about programming from codeforces. If all my knowledge was freely shared by other people, wtf am I even competing for? They say you either win or you learn — I think I like learning more than winning. What's the point of winning if you just make whoever lost feel sad? The grass isn't greener on the other side of any success in life, if I'm rich I only attract gold diggers.
 
