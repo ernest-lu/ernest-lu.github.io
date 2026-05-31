@@ -1,4 +1,5 @@
----
+<!--
+
 title: Why is life so competitive? I like losing
 date: 2026-05-15
 math: true
@@ -16,3 +17,5 @@ Maybe the goal is self-expression — producing your own art, your own masterpie
 
 ![loki](../../content/img/loki.jpeg)
 ![bb](../../content/img/bb.png)
+
+-->
