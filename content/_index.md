@@ -1,20 +1,13 @@
 hello
 
-favorites:
-
 <details>
-<summary>
-Games
-</summary>
-- Mount and Blade: Warband 
-- Valheim
-- Rimworld
-</details>
+<summary>favorites</summary>
 
-<details>
-<summary>
-Reading
-</summary>
-- The art of doing science and engineering
-- One Piece
+- **Games**
+  - Mount and Blade: Warband 
+  - Valheim
+  - Rimworld
+- **Reading**
+  - The art of doing science and engineering
+  - One Piece
 </details>
