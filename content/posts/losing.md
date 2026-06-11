@@ -1,4 +1,4 @@
-title: Losing
+title: Life
 date: 2026-05-15
 math: true
 
