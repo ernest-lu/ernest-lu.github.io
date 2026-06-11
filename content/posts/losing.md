@@ -12,7 +12,7 @@ People justify competition by saying that resources in life are limited—there 
 
 They say you either win or you learn. I think I like learning more than winning. What’s the point of winning if it just makes whoever lost feel sad? The grass isn’t greener on the other side of success. Most successful people I’ve met are fairly lonely.
 
-I’ve decided that my purpose in life is simply to survive and be happy. I’ll gain knowledge and power if—and only if—it helps me survive. Curiously, learning about the world gives me a sense of control. I learn to cook when I’m by myself because it helps me survive on my own. When I lose, I feel inadequate, so I learn. As I learn, I can create more beautiful things. Trying to be better than other people is not how I want to live.
+I’ve decided that my purpose in life is simply to survive and be happy. I’ll gain knowledge and power if—and only if—it helps me survive. I have a theory that this mentality is also an efficient way to learn things. Curiously learning about the world gives me a sense of control. I learn to cook when I’m by myself because it helps me survive on my own. When I lose, I feel inadequate, so I learn. As I learn, I can create more beautiful things. Trying to be better than other people is not how I want to live.
 
 Maybe the goal is self-expression—producing your own art, your own masterpiece, an expression of whatever you’ve built in your mind. My friends are sad that LLMs are better than them at everything, and honestly, I don’t think the race between big labs to build technology is productive. Knowledge should be shared. The true driver of innovation was never competition—it was pure curiosity. We ask questions, learn things, reach the frontier, and push it further.
 
