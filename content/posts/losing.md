@@ -6,7 +6,7 @@ math: true
 
 I wonder why we structure life so competitively. I think competition is the source of much of my emotional pain. I grew up going to math competitions, competing for good grades, and competing in Fortnite battle royales.
 
-Maybe I was raised in an environment where everyone I talked to was obsessed with strengths, ratings, who’s the GOAT, and who’s the strongest. For my own happiness, I want to believe that true strength is not about competition.
+Maybe I was raised in an environment where everyone I talked to was obsessed with strengths, ratings, and who’s the strongest. For my own happiness, I want to believe that true strength is not about competition.
 
 People justify competition by saying that resources in life are limited—there are only so many spots in a school, only so many people who can get a job. I want to challenge that idea. Most knowledge is already on the internet. I learned everything I know about programming from Codeforces. If all my knowledge was freely shared by other people, what am I even competing for?
 
@@ -20,4 +20,4 @@ I dream of a less secretive, more open world where you can ask anyone anything a
 
 Life is not a competition.
 
-<img src="/img/loki.jpeg" alt="loki" width="400" />
+<img src="/img/loki.jpeg" alt="loki" width="300" />
