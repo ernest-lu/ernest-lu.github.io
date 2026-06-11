@@ -1,7 +1,7 @@
+---
 title: Life
 date: 2026-05-15
 math: true
-
 ---
 
 I wonder why we structure life so competitively. I think competition is the source of all my emotional pain. I grew up going to math competitions, competing for good grades, competing in Fortnite battle royales.
@@ -15,4 +15,3 @@ I've decided my purpose in life is just to survive and be happy. I'll gain knowl
 Maybe the goal is self-expression — producing your own art, your own masterpiece. An expression of whatever you've built in your brain. My friends are sad that LLMs are better than them at everything, and honestly I don't think the race between the big labs in building technologies is productive. Knowledge should be shared. The true driver of innovation was never competition — it was pure curiosity. We ask questions, learn things, reach the frontier and push it further. I dream of a less secretive, more open world where you can ask anyone anything and get knowledge freely. I've been in environments structured like this. Maybe we just model real life the same way. Life is not a competition.
 
 ![loki](/img/loki.jpeg)
-![bb](/img/bb.png)
