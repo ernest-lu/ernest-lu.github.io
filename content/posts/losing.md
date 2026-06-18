@@ -1,5 +1,5 @@
 ---
-title: Life
+title: Are resources abundant?
 date: 2026-05-15
 math: true
 ---
