@@ -14,9 +14,9 @@ They say you either win or you learn. I think I like learning more than winning.
 
 I’ve decided that my purpose in life from now on is simply to survive happily. I’ll gain knowledge and power if—and only if—it helps me survive. I have a theory that this mentality is also an efficient way to learn things. Curiously learning about the world gives me a sense of control. I learn to cook when I’m by myself because it helps me survive on my own. When I lose, I feel inadequate, so I learn. As I learn, I can create more beautiful things. Trying to be better than other people is not how I want to live.
 
-Maybe a goal in life is self-expression—producing your own art, your own masterpiece, an expression of whatever you’ve built in your mind. Knowledge should be shared. The true driver of innovation was never competition—it was pure curiosity. We ask questions, learn things, reach the frontier, and push it further.
+Maybe a goal in life is self-expression—producing your own art, your own masterpiece, an expression of whatever you’ve built in your mind. Knowledge should be shared. The true driver of innovation was never competition—it might be something more fundamental? Perhaps pure curiosity. We ask questions, learn things, reach the frontier, and push it further.
 
-I dream of a less secretive, more open world where you can ask anyone anything and receive knowledge freely. I’ve been in environments structured like this. Maybe we should model real life the same way.
+I dream of a less secretive, more open world where you can ask anyone anything and receive knowledge freely. I’ve been in environments structured like this. Maybe we can model real life the same way.
 
 Life is not a competition.
 
