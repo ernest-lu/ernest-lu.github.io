@@ -1,0 +1,43 @@
+{{ $mapping := .Site.Params.GiscusDataMapping | default "pathname" }}
+{{ $language := .Site.Params.GiscusLang | default "en" }}
+{{ $category := or .Site.Params.GiscusDiscussionCategory .Site.Params.GiscusCategory "Announcements" }}
+{{ $lazyload := .Site.Params.GiscusLazyLoad | default false }}
+{{ $colorTheme := "auto" }}
+{{ if and (isset site.Params "colortheme") (ne site.Params.colortheme "") }}
+    {{ $colorTheme = site.Params.colortheme | lower }}
+{{ end }}
+
+<script>
+    function detectCurrentGiscusScheme() {
+        const defaultTheme = "{{ $colorTheme }}";
+        if (localStorage !== null && localStorage.getItem("user-color-scheme")) {
+            return localStorage.getItem("user-color-scheme");
+        }
+        if (defaultTheme === "dark" || defaultTheme === "light") {
+            return defaultTheme;
+        }
+        return window.matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light";
+    }
+
+    const giscusAttributes = {
+        src: "https://giscus.app/client.js",
+        "data-repo": "{{- .Site.Params.GiscusRepo -}}",
+        "data-repo-id": "{{- .Site.Params.GiscusRepoId -}}",
+        "data-category": "{{- $category -}}",
+        "data-category-id": "{{- .Site.Params.GiscusCategoryId -}}",
+        "data-mapping": "{{ $mapping }}",
+        "data-strict": "0",
+        "data-reactions-enabled": "1",
+        "data-emit-metadata": "0",
+        "data-input-position": "bottom",
+        "data-theme": detectCurrentGiscusScheme(),
+        "data-lang": "{{ $language }}",
+        crossorigin: "anonymous",
+        async: true,
+        {{ if $lazyload }}"data-loading": "lazy",{{ end }}
+    };
+
+    const giscusScript = document.createElement("script");
+    Object.entries(giscusAttributes).forEach(([key, value]) => giscusScript.setAttribute(key, value));
+    document.querySelector("main").appendChild(giscusScript);
+</script>
