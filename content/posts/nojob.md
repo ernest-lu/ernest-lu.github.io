@@ -6,4 +6,4 @@ So then how do we survive and make money? I don't know but I guess an idea is th
 
 ![growth](image.png)
 
-I think with AI we can all be more independent, do whatever we want and not have to work for companies to make them richer. Power to the people. Everyone I met at AI, quant, and tech companies were pretty retarded and money / power hungry. I don't want to be like that. I want to be problem hungry. Have no fear, I, badint, will save the world from evil AIs.
+I think with AI we can all be more independent, do whatever we want and not have to work for companies to make them richer. Power to the people.
