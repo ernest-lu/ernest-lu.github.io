@@ -1,5 +1,5 @@
 ---
-title: Are resources abundant?
+title: No job.
 date: 2026-10-08
 math: true
 ---
