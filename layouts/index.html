@@ -10,7 +10,22 @@
         <!-- Note that the content for index.html, as a sort of list page, will pull from content/_index.md -->
         {{ .Content }}
     </div>
-    <section class="art-section" aria-labelledby="art-heading">
+    
+    
+    <h3>Writing:</h3>
+    <div class="articles h-feed">
+        {{ $pages := where (where site.RegularPages "Type" "in" site.Params.mainSections) "Params.hidden" "!=" true }}
+        {{ range (.Paginate $pages).Pages }}
+        {{ partial "post-summary.html" . }}
+        {{ end }}
+        {{ partial "pagination.html" . }}
+    </div>
+<div>
+        {{ range first 10 .Site.RegularPages }}
+        {{ .Render "summary" }}
+        {{ end }}
+    </div>
+<section class="art-section" aria-labelledby="art-heading">
         <h3 id="art-heading">Art:</h3>
         <div class="art-gallery" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 1rem; align-items: start;">
             {{ range readDir "content/img/art" }}
@@ -23,19 +38,6 @@
             {{ end }}
         </div>
     </section>
-    <div>
-        {{ range first 10 .Site.RegularPages }}
-        {{ .Render "summary" }}
-        {{ end }}
-    </div>
-    <h3>Writing:</h3>
-    <div class="articles h-feed">
-        {{ $pages := where (where site.RegularPages "Type" "in" site.Params.mainSections) "Params.hidden" "!=" true }}
-        {{ range (.Paginate $pages).Pages }}
-        {{ partial "post-summary.html" . }}
-        {{ end }}
-        {{ partial "pagination.html" . }}
-    </div>
 
 </main>
 {{ end }}
