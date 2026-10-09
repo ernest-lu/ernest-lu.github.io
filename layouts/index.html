@@ -10,6 +10,19 @@
         <!-- Note that the content for index.html, as a sort of list page, will pull from content/_index.md -->
         {{ .Content }}
     </div>
+    <section class="art-section" aria-labelledby="art-heading">
+        <h3 id="art-heading">Art:</h3>
+        <div class="art-gallery" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 1rem; align-items: start;">
+            {{ range readDir "content/img/art" }}
+                {{ if in (slice ".jpg" ".jpeg" ".png" ".webp" ".gif") (lower (path.Ext .Name)) }}
+                    {{ $image := printf "img/art/%s" .Name | relURL }}
+                    <a href="{{ $image }}" aria-label="View artwork: {{ .Name }}">
+                        <img src="{{ $image }}" alt="Artwork: {{ .Name }}" style="display: block; width: 100%; height: auto;" loading="lazy">
+                    </a>
+                {{ end }}
+            {{ end }}
+        </div>
+    </section>
     <div>
         {{ range first 10 .Site.RegularPages }}
         {{ .Render "summary" }}
@@ -23,5 +36,6 @@
         {{ end }}
         {{ partial "pagination.html" . }}
     </div>
+
 </main>
 {{ end }}
