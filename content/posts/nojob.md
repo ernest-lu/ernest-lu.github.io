@@ -10,6 +10,7 @@ Specialization is useful for society? I think this is true, since there are thin
 
 So then how do we survive and make money? I don't know but I guess an idea is that instead of getting jobs, we can buy stocks. The stock market grows exponentially while you get paid linearly. CS says that exponential growth beats linear growth over time.
 
+<img src="/img/growth.png" alt="growth" width="300" />
 ![growth](growth.png)
 
 I think with AI we can all be more independent, do whatever we want, explore our curiousities, and not have to work for companies to make them richer. Power to the people. Do whatever you want.
