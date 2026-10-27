@@ -4,7 +4,7 @@ date: 2026-10-08
 math: true
 ---
 
-People go through life experiencing emotions, these drive their actions. But what if your name determined your emotions? What if your name determined your life? What if you had no free will?
+People go through life experiencing emotions, these can drive their actions. But what if your name determined your emotions? What if your name determined your life? What if you had no free will?
 
 When you are born, you are given a name. This name may have the power to give you certain emotional characters who then drive your actions. For example, Michael Jordan is a name that has been associated with greatness.
 
