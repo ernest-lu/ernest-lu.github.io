@@ -29,8 +29,6 @@ The idea of free will is a philosophical question that has been debated for cent
 
 Now, consider the three individuals named Michael Jordan. Each of them has achieved success in their respective fields, but their paths to success have been different. This raises the question: is it possible that their names influenced their life choices and outcomes?
 
-Life itself can be modeled as a simulation. True randmoness is hard to achieve so algorithms can be used to simulate [https://www.wikiwand.com/en/Mersenne_Twister](randomness). This means that it is predictable, and that our lives are determined by a set of rules and algorithms. We can attempt to decompile reality to understand the rules and algorithms that govern our lives. In this simulation, we can explore the idea of free will and how it may be influenced by factors such as our names.
+Life itself can be modeled as a simulation. True randmoness is hard to achieve so algorithms can be used to simulate [https://www.wikiwand.com/en/Mersenne_Twister](randomness). This means that it is predictable, and that our lives are determined by a set of rules and algorithms. We can attempt to decompile reality to understand the rules and algorithms that govern our lives.
 
 In this simulation, our names may serve as a guiding force, shaping our experiences and determining the trajectory of our lives.
-
-Our dreams model the future, so our reality may be predictable.
