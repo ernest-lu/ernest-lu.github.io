@@ -1,5 +1,5 @@
 ---
-title: Your name determines your life. Does free will exist? The simulated nature of our world.
+title: Your name determines your life.
 date: 2026-10-08
 math: true
 ---
