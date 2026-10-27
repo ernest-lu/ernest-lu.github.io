@@ -13,4 +13,4 @@ So then how do we survive and make money? I don't know, but I guess an idea is t
 <img src="/img/growth.png" alt="growth" width="300" />
 ![growth](growth.png)
 
-I think with AI we can all be more independent, do whatever we want, explore our curiousities, and not have to work for companies to make them richer. Power to the people. Do whatever you want.
+I think with AI we can all be more independent, do whatever we want, explore our curiousities, and not have to work for companies to make them richer. Power to the people.

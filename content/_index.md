@@ -10,4 +10,7 @@ hello
 - **Reading**
   - The art of doing science and engineering
   - One Piece
+- **Movies**
+  - Inside Out
+  - The Incredibles
   </details>
