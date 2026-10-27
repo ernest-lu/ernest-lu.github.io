@@ -6,7 +6,7 @@ math: true
 
 People go through life experiencing emotions, these can drive their actions. But what if your name determined your emotions? What if your name determined your life? What if you had no free will?
 
-When you are born, you are given a name. This name may have the power to give you certain emotional characters who then drive your actions. For example, Michael Jordan is a name that has been associated with greatness.
+When you are born, you are given a name. This name may have the power to give you certain emotional characters which then drive your actions. For example, Michael Jordan is a name that has been associated with greatness.
 
 [Michael Jordan](https://en.wikipedia.org/wiki/Michael_Jordan) is a name that has been associated with greatness. The name "Michael" is derived from the Hebrew name "Mikha'el," which means "who is like God?" The name "Jordan" is derived from the Hebrew word "Yarden," which means "to descend" or "to flow down."
 
