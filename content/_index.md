@@ -8,7 +8,6 @@ hello
   - Valheim
   - Rimworld
 - **Reading**
-  - The art of doing science and engineering
   - One Piece
 - **Movies**
   - Inside Out
